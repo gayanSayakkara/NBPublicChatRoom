@@ -7,8 +7,9 @@ public class ProjectSeven {
      */
     public static void main(String[] args) {
         ChatObservable chatObservable = new ChatObservable();
-        chatObservable.addPerson(new ChatWindow("Mahinda Rajapaksha", chatObservable));
-        chatObservable.addPerson(new ChatWindow("Maithreepala Sirisena", chatObservable));
+        chatObservable.addPerson(new ChatWindow("Gayan", chatObservable));
+        chatObservable.addPerson(new ChatWindow("Harsha", chatObservable));
     }
     
 }
+ 
